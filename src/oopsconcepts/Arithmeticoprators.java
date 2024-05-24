@@ -12,7 +12,6 @@ public class Arithmeticoprators
 		a=10;
 		b=20;
 		c= a+b;
-		
 		System.out.println("Total of a & b is:" + c);
 		
 		//Subtraction

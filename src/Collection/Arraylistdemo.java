@@ -95,5 +95,9 @@ public class Arraylistdemo
 		  list.removeAll(list1);
 		  System.out.println("After removing multiple elements " + list);
 		  
+		  // remove all items from arraylist
+		  list.clear();
+		  System.out.println("Is array list empty? " + list.isEmpty());
+		  
 	}
 }
